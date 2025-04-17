@@ -36,12 +36,9 @@
 
 ## 📊 GitHub Stats
 
-<p display="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umgauthamram&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Umgauthamram&theme=github-dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umgauthamram&theme=github_dark&hide_border=false&layout=compact" />
+<p >
+     <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umgauthamram&layout=compact&langs_count=16&theme=github_dark"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=Umgauthamram&theme=github-dark&hide_border=false" />
 </p>
 
 ---
@@ -58,20 +55,6 @@
 
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umgauthamram&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
-</p>
-
----
-
----
-
-## 🐍 Snake Eating My Contribution
-
-<p align="center">
-  <picture >
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  </picture>
 </p>
 
 ---
