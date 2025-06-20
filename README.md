@@ -67,4 +67,6 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/Umgauthamram/Umgauthamram/output/snake.svg" alt="Snake animation" />
+
  
