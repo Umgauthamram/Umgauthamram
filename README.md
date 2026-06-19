@@ -72,5 +72,5 @@ Hi, I'm **Gautham Ram U M** — a developer based in Bangalore, currently studyi
 ## 🔝 Most Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Umgauthamram&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Most Contributed Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Umgauthamram&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
