@@ -74,34 +74,10 @@ Hi, I'm **Gautham Ram U M** — a developer based in Bangalore, currently studyi
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Umgauthamram&theme=algolia&no-frame=false&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umgauthamram&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🐍 Watch My Contributions Come Alive
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Umgauthamram/Umgauthamram/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-</p>
-
----
-
-## 🔝 Most Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Umgauthamram&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Most Contributed Repos" />
 </p>
 
 ---
